@@ -1,0 +1,8 @@
+Pon aquí las imágenes de tus proyectos.
+
+Formatos recomendados: .jpg o .png (también sirve .webp).
+Tamaño ideal: ancho de 1200 a 1600 px.
+
+Luego, en el archivo index.html, busca "LISTA DE PROYECTOS"
+y escribe la ruta de cada imagen, por ejemplo:
+   imagen: "imagenes/mi-logo.jpg"
